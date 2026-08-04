@@ -561,3 +561,4 @@ Continuous engineering and validation logs for TinyTots ASD Screening System.
 - `2026-10-05T20:49:44+05:30`: **feat(report)** — enrich printable report layout with timestamped audit header
 - `2026-10-05T21:28:01+05:30`: **chore(cleanup)** — standardize docstring formatting across scoring functions
 - `2026-08-04T10:25:14+05:30`: [Light Tier] **docs(notes)** — document class imbalance in ASD positive vs negative instances
+- `2026-08-04T15:40:38+05:30`: [Light Tier] **feat(smote)** — experiment with synthetic oversampling for rare screening classes
