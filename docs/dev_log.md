@@ -570,3 +570,4 @@ Continuous engineering and validation logs for TinyTots ASD Screening System.
 - `2026-08-07T15:40:38+05:30`: [Light Tier] **test(baseline)** — compute baseline statistics across age and gender distributions
 - `2026-08-08T10:25:14+05:30`: [Light Tier] **docs(research)** — review DSM-5 and M-CHAT-R/F alignment criteria
 - `2026-08-08T15:40:38+05:30`: [Light Tier] **feat(prototype)** — initial script for decision tree exploratory baseline
+- `2026-08-09T10:25:14+05:30`: [Light Tier] **style(ui)** — wireframe initial questionnaire step layout
