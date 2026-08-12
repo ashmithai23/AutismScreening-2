@@ -576,3 +576,4 @@ Continuous engineering and validation logs for TinyTots ASD Screening System.
 - `2026-08-10T15:40:38+05:30`: [Light Tier] **feat(smote)** — experiment with synthetic oversampling for rare screening classes
 - `2026-08-11T10:25:14+05:30`: [Light Tier] **test(metrics)** — log confusion matrix and sensitivity benchmarks
 - `2026-08-11T15:40:38+05:30`: [Light Tier] **docs(api)** — outline preliminary REST schema for questions and scoring
+- `2026-08-12T10:25:14+05:30`: [Light Tier] **docs(preliminary)** — initial draft of toddler behavioral assessment protocol
