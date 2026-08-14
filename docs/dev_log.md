@@ -580,3 +580,4 @@ Continuous engineering and validation logs for TinyTots ASD Screening System.
 - `2026-08-12T15:40:38+05:30`: [Light Tier] **feat(dataset)** — import raw 2018 toddler autism screening data tables
 - `2026-08-13T10:25:14+05:30`: [Light Tier] **refactor(cleaning)** — preprocess categorical features and encode missing values
 - `2026-08-13T15:40:38+05:30`: [Light Tier] **test(baseline)** — compute baseline statistics across age and gender distributions
+- `2026-08-14T10:25:14+05:30`: [Light Tier] **docs(research)** — review DSM-5 and M-CHAT-R/F alignment criteria
