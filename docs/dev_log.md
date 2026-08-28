@@ -609,3 +609,4 @@ Continuous engineering and validation logs for TinyTots ASD Screening System.
 - `2026-08-27T10:25:14+05:30`: [Light Tier] **style(ui)** — wireframe initial questionnaire step layout
 - `2026-08-27T15:40:38+05:30`: [Light Tier] **refactor(models)** — evaluate logistic regression vs random forest baseline accuracy
 - `2026-08-28T10:25:14+05:30`: [Light Tier] **docs(notes)** — document class imbalance in ASD positive vs negative instances
+- `2026-08-28T15:40:38+05:30`: [Light Tier] **feat(smote)** — experiment with synthetic oversampling for rare screening classes
