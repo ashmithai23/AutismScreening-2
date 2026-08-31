@@ -614,3 +614,4 @@ Continuous engineering and validation logs for TinyTots ASD Screening System.
 - `2026-08-29T15:40:38+05:30`: [Light Tier] **docs(api)** — outline preliminary REST schema for questions and scoring
 - `2026-08-30T10:25:14+05:30`: [Light Tier] **docs(preliminary)** — initial draft of toddler behavioral assessment protocol
 - `2026-08-30T15:40:38+05:30`: [Light Tier] **feat(dataset)** — import raw 2018 toddler autism screening data tables
+- `2026-08-31T10:25:14+05:30`: [Light Tier] **refactor(cleaning)** — preprocess categorical features and encode missing values
