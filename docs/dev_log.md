@@ -624,3 +624,4 @@ Continuous engineering and validation logs for TinyTots ASD Screening System.
 - `2026-09-02T20:15:40+05:30`: [Transition] **feat(prototype)** — initial script for decision tree exploratory baseline
 - `2026-09-03T10:10:20+05:30`: [Transition] **test(baseline)** — compute baseline statistics across age and gender distributions
 - `2026-09-03T13:20:15+05:30`: [Transition] **docs(research)** — review DSM-5 and M-CHAT-R/F alignment criteria
+- `2026-09-03T16:45:10+05:30`: [Transition] **feat(prototype)** — initial script for decision tree exploratory baseline
