@@ -657,3 +657,4 @@ Continuous engineering and validation logs for TinyTots ASD Screening System.
 - `2026-09-06T14:00:25+05:30`: [High-Intensity] **test(scorer)** — verify domain percentage ceiling checks and rounding bounds
 - `2026-09-06T14:45:48+05:30`: [High-Intensity] **docs(pediatric)** — summarize developmental milestone reference guide
 - `2026-09-06T15:25:11+05:30`: [High-Intensity] **refactor(storage)** — optimize concurrent file lock safety for screening logs
+- `2026-09-06T16:10:34+05:30`: [High-Intensity] **feat(export)** — add print-friendly CSS stylesheet for assessment reports
