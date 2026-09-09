@@ -706,3 +706,4 @@ Continuous engineering and validation logs for TinyTots ASD Screening System.
 - `2026-09-09T10:25:30+05:30`: [High-Intensity] **docs(audit)** — record verified pediatric review for Stage 2 conditional rules
 - `2026-09-09T11:10:53+05:30`: [High-Intensity] **test(ci)** — add end-to-end payload validation tests for /screen API
 - `2026-09-09T11:50:16+05:30`: [High-Intensity] **refactor(types)** — strict TypeScript interface synchronization with Pydantic
+- `2026-09-09T12:35:39+05:30`: [High-Intensity] **feat(accessibility)** — add aria-labels and keyboard navigation for questionnaire
