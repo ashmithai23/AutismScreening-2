@@ -83,3 +83,4 @@ Continuous engineering and validation logs for TinyTots ASD Screening System.
 - `2026-09-09T13:37:54+05:30`: **docs(api)** — clarify response model schemas for history endpoint
 - `2026-09-09T14:16:11+05:30`: **test(scorer)** — verify edge case handling for borderline questionnaire submissions
 - `2026-09-09T15:02:28+05:30`: **feat(recommendations)** — add domain-specific follow-up guidance notes
+- `2026-09-09T15:48:45+05:30`: **refactor(backend)** — improve error handling and exception logging
