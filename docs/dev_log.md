@@ -768,3 +768,4 @@ Continuous engineering and validation logs for TinyTots ASD Screening System.
 - `2026-09-12T16:10:34+05:30`: [High-Intensity] **feat(export)** — add print-friendly CSS stylesheet for assessment reports
 - `2026-09-12T16:50:57+05:30`: [High-Intensity] **perf(backend)** — reduce memory footprint of cached joblib model estimators
 - `2026-09-12T17:35:20+05:30`: [High-Intensity] **test(predictor)** — assert consistent prediction output across duplicate payloads
+- `2026-09-12T18:20:43+05:30`: [High-Intensity] **docs(readme)** — update system requirements and docker launch instructions
