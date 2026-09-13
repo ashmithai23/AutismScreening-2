@@ -790,3 +790,4 @@ Continuous engineering and validation logs for TinyTots ASD Screening System.
 - `2026-09-13T19:00:06+05:30`: [High-Intensity] **refactor(frontend)** — extract reusable question card component with transitions
 - `2026-09-13T19:45:29+05:30`: [High-Intensity] **feat(history)** — add sparkline trajectory visualizer for longitudinal sessions
 - `2026-09-13T20:25:52+05:30`: [High-Intensity] **test(e2e)** — verify questionnaire form validation for required fields
+- `2026-09-13T21:10:15+05:30`: [High-Intensity] **docs(changelog)** — log clinical threshold adjustment based on cross-validation
