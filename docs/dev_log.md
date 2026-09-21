@@ -301,3 +301,4 @@ Continuous engineering and validation logs for TinyTots ASD Screening System.
 - `2026-09-21T15:02:28+05:30`: **feat(recommendations)** — add domain-specific follow-up guidance notes
 - `2026-09-21T15:48:45+05:30`: **refactor(backend)** — improve error handling and exception logging
 - `2026-09-21T16:27:02+05:30`: **docs(readme)** — update local environment prerequisites and setup guidelines
+- `2026-09-21T17:13:19+05:30`: **test(predictor)** — add test case verifying model probability calibration
