@@ -977,3 +977,4 @@ Continuous engineering and validation logs for TinyTots ASD Screening System.
 - `2026-09-24T11:10:53+05:30`: [High-Intensity] **test(ci)** — add end-to-end payload validation tests for /screen API
 - `2026-09-24T11:50:16+05:30`: [High-Intensity] **refactor(types)** — strict TypeScript interface synchronization with Pydantic
 - `2026-09-24T12:35:39+05:30`: [High-Intensity] **feat(accessibility)** — add aria-labels and keyboard navigation for questionnaire
+- `2026-09-24T13:15:02+05:30`: [High-Intensity] **style(theme)** — calibrate visual hierarchy and spacing for mobile viewports
