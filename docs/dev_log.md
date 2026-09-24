@@ -350,3 +350,4 @@ Continuous engineering and validation logs for TinyTots ASD Screening System.
 - `2026-09-24T11:26:03+05:30`: **perf(predictor)** — optimize feature array formatting for classifier inference
 - `2026-09-24T12:12:20+05:30`: **style(ui)** — refine visual contrast for status indicators and risk badges
 - `2026-09-24T12:51:37+05:30`: **refactor(storage)** — streamline child record serialization and validation
+- `2026-09-24T13:37:54+05:30`: **docs(api)** — clarify response model schemas for history endpoint
