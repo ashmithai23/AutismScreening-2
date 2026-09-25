@@ -1005,3 +1005,4 @@ Continuous engineering and validation logs for TinyTots ASD Screening System.
 - `2026-09-25T18:20:43+05:30`: [High-Intensity] **docs(readme)** — update system requirements and docker launch instructions
 - `2026-09-25T19:00:06+05:30`: [High-Intensity] **refactor(frontend)** — extract reusable question card component with transitions
 - `2026-09-25T19:45:29+05:30`: [High-Intensity] **feat(history)** — add sparkline trajectory visualizer for longitudinal sessions
+- `2026-09-25T20:25:52+05:30`: [High-Intensity] **test(e2e)** — verify questionnaire form validation for required fields
