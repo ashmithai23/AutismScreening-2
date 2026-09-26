@@ -394,3 +394,4 @@ Continuous engineering and validation logs for TinyTots ASD Screening System.
 - `2026-09-26T17:13:19+05:30`: **test(predictor)** — add test case verifying model probability calibration
 - `2026-09-26T17:52:36+05:30`: **style(theme)** — tune radar chart color scheme for clinical legibility
 - `2026-09-26T18:38:53+05:30`: **refactor(questions)** — structure question bank metadata and category tags
+- `2026-09-26T19:17:10+05:30`: **perf(storage)** — cache recent screening lookups for faster response times
