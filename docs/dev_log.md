@@ -1087,3 +1087,4 @@ Continuous engineering and validation logs for TinyTots ASD Screening System.
 - `2026-09-30T12:35:39+05:30`: [High-Intensity] **feat(accessibility)** — add aria-labels and keyboard navigation for questionnaire
 - `2026-09-30T13:15:02+05:30`: [High-Intensity] **style(theme)** — calibrate visual hierarchy and spacing for mobile viewports
 - `2026-09-30T14:00:25+05:30`: [High-Intensity] **test(scorer)** — verify domain percentage ceiling checks and rounding bounds
+- `2026-09-30T14:45:48+05:30`: [High-Intensity] **docs(pediatric)** — summarize developmental milestone reference guide
