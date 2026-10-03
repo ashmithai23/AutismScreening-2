@@ -506,3 +506,4 @@ Continuous engineering and validation logs for TinyTots ASD Screening System.
 - `2026-10-02T20:03:27+05:30`: **test(storage)** — assert trend calculation accuracy between successive sessions
 - `2026-10-02T20:49:44+05:30`: **feat(report)** — enrich printable report layout with timestamped audit header
 - `2026-10-02T21:28:01+05:30`: **chore(cleanup)** — standardize docstring formatting across scoring functions
+- `2026-10-03T09:15:12+05:30`: **docs** — update clinical documentation and questionnaire scoring guidelines
