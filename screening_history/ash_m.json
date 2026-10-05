@@ -1,0 +1,59 @@
+{
+  "child": "Ash",
+  "gender": "m",
+  "records": [
+    {
+      "id": "20261005_215546",
+      "timestamp": "2026-10-05T21:55:46.655909",
+      "age_months": 24,
+      "overall_score": 53.1,
+      "risk_level": "Moderate",
+      "domain_scores": {
+        "Social Interaction": {
+          "percentage": 0.0,
+          "item_count": 10,
+          "flag_items": []
+        },
+        "Communication": {
+          "percentage": 30.3,
+          "item_count": 6,
+          "flag_items": [
+            "A3",
+            "A4"
+          ]
+        },
+        "Behavioral Patterns": {
+          "percentage": 77.5,
+          "item_count": 4,
+          "flag_items": [
+            "A10",
+            "A14",
+            "A16"
+          ]
+        }
+      },
+      "item_scores": {
+        "A1": 0,
+        "A2": 0,
+        "A3": 1,
+        "A4": 1,
+        "A5": 0,
+        "A6": 0,
+        "A7": 0,
+        "A8": 0,
+        "A9": 0,
+        "A10": 1,
+        "A11": 0,
+        "A12": 0,
+        "A13": 0,
+        "A14": 1,
+        "A15": 0,
+        "A16": 1,
+        "A17": 0,
+        "A18": 0,
+        "A19": 0,
+        "A20": 0
+      }
+    }
+  ]
+}

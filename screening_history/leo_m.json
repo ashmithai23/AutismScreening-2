@@ -1,0 +1,44 @@
+{
+  "child": "Leo",
+  "gender": "m",
+  "records": [
+    {
+      "id": "20261005_220717",
+      "timestamp": "2026-10-05T22:07:17.502116",
+      "age_months": 24,
+      "overall_score": 15.0,
+      "risk_level": "Low",
+      "domain_scores": {
+        "Social Interaction": {
+          "percentage": 0.0,
+          "item_count": 5,
+          "flag_items": []
+        },
+        "Communication": {
+          "percentage": 0.0,
+          "item_count": 4,
+          "flag_items": []
+        },
+        "Behavioral Patterns": {
+          "percentage": 100.0,
+          "item_count": 1,
+          "flag_items": [
+            "A10"
+          ]
+        }
+      },
+      "item_scores": {
+        "A1": 0,
+        "A6": 0,
+        "A3": 0,
+        "A8": 0,
+        "A5": 0,
+        "A2": 0,
+        "A7": 0,
+        "A4": 0,
+        "A9": 0,
+        "A10": 1
+      }
+    }
+  ]
+}
